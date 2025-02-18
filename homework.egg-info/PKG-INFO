@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: homework
+Version: 0.1
+Requires-Dist: ipykernel
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: scikit-learn
+Dynamic: requires-dist
